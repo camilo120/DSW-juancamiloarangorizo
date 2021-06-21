@@ -34,7 +34,24 @@ footer{
     padding: 10px;
 }
 
-.menu{
+.menu{/*letra Prueba*/
+    display: flex;
+}
+
+nav ul {
+     list-style: none;
+     padding: 3px;
+     color: cornsilk;
+     background: black;
+    
+ }
+
+.menu li {
+     width: 100%;
+     text-align: center;
+ }
+
+.menu a {
     display: flex;
     align-items: center;
     justify-content: center;
